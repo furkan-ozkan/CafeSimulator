@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5677a8de2453b2449453eef2cbc9799, type: 3}
+  m_Name: Paper Towel Part
+  m_EditorClassIdentifier: 
+  moveable: 1
+  itemName: Paper Towel Part
+  itemInfo: A part of paper towel
+  itemId: 992
+  itemPrice: 0
+  Hotdog: {fileID: 7115299854485858710, guid: 11bde2274ca3ae8418e8a9ca65ed6b7b, type: 3}

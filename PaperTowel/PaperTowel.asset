@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19550b10f0ba7e94ab87e7dbd90dd355, type: 3}
+  m_Name: PaperTowel
+  m_EditorClassIdentifier: 
+  moveable: 1
+  itemName: Paper Towel
+  itemInfo: Can get a part of paper towel
+  itemId: 991
+  itemPrice: 0
+  paperTowel: {fileID: 1819050584817234338, guid: 1ee859342e6b8a84db91163099156d41, type: 3}
