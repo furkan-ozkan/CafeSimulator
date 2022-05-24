@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ea8b6c1c9292b74e9aa7131dbfea412, type: 3}
+  m_Name: UseRedCoke
+  m_EditorClassIdentifier: 
+  moveable: 1
+  itemName: Get Red Coke
+  itemInfo: Get Red Coke
+  itemId: 970
+  itemPrice: 10
+  sausage: {fileID: 6582831901517837244, guid: 43a6fb5dc13999f4ba5e3558a418939f, type: 3}

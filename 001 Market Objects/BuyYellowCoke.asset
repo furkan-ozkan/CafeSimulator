@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e139ba1d55b070f4da0bf2a388a192b1, type: 3}
+  m_Name: BuyYellowCoke
+  m_EditorClassIdentifier: 
+  moveable: 0
+  itemName: Buy Yellow Coke
+  itemInfo: Buy Yellow Coke x10
+  itemId: 963
+  itemPrice: 20
+  useSausage: {fileID: 8605845421330463521, guid: c2d87dafc16d6294fa57df0ce0ccb5bd, type: 3}

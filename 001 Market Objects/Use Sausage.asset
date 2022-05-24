@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ea8b6c1c9292b74e9aa7131dbfea412, type: 3}
+  m_Name: Use Sausage
+  m_EditorClassIdentifier: 
+  moveable: 1
+  itemName: Get sausage
+  itemInfo: Get sausage in box
+  itemId: 987
+  itemPrice: 10
+  sausage: {fileID: 6063443167389805931, guid: 50c802cda4324934ea45f9621438b20c, type: 3}
